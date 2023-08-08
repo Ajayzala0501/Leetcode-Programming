@@ -69,8 +69,25 @@ public class Main {
         //System.out.println(Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.checkOnesSegment("100"));
 
         //problem:1768
-        System.out.println(Merge_Strings_Alternately.mergeAlternately("ab","pqrs"));
+        //System.out.println(Merge_Strings_Alternately.mergeAlternately("ab","pqrs"));
 
+        //problem:345
+        //System.out.println(Reverse_Vowels_of_a_String.reverseVowels("leetcode"));
+
+        //problem:389
+        // System.out.println(Find_the_Difference.findTheDifference("abcd","abcde"));
+
+        //Test
+        //System.out.println(Recursion_Program.printTriangle(5));
+
+        //problem:2810
+        //System.out.println(Faulty_Keyboard.finalString("poiinter") );
+
+        //problem:2788
+        //System.out.println(Split_Strings_by_Separator.splitWordsBySeparator(Arrays.asList(new String[]{"$easy$","$problem$"}) ,'$'));
+
+        //problem:2194
+        System.out.println(Cells_in_a_Range_on_an_Excel_Sheet.cellsInRange("K1:L2"));
 
     }
 }
