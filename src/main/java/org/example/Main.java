@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.leetcode.arrays.Best_Time_to_Buy_and_Sell_Stock;
+import org.example.leetcode.arrays.Maximum_Sum_With_Exactly_K_Elements;
+import org.example.leetcode.arrays.Sum_Multiples;
 import org.example.leetcode.string.*;
 
 import java.util.ArrayList;
@@ -87,7 +90,24 @@ public class Main {
         //System.out.println(Split_Strings_by_Separator.splitWordsBySeparator(Arrays.asList(new String[]{"$easy$","$problem$"}) ,'$'));
 
         //problem:2194
-        System.out.println(Cells_in_a_Range_on_an_Excel_Sheet.cellsInRange("K1:L2"));
+        //System.out.println(Cells_in_a_Range_on_an_Excel_Sheet.cellsInRange("K1:L2"));
+
+        //problem:2114
+        //System.out.println(Maximum_Number_of_Words_Found_in_Sentences.mostWordsFound(new String[]{"alice and bob love leetcode","i think so too","this is great thanks very much"}));
+
+        //Arrays Problem---------------------------------------------------------------->:
+
+        //problem:2656
+        //System.out.println(Maximum_Sum_With_Exactly_K_Elements.maximizeSum(new int[]{1,2,3,4,5},3));
+
+        //problem:2652
+        //System.out.println(Sum_Multiples.sumOfMultiples(7));
+
+        //problem:824
+        //System.out.println(Goat_Latin.toGoatLatin("I speak Goat Latin"));
+
+        //problem:121
+        System.out.println(Best_Time_to_Buy_and_Sell_Stock.maxProfit(new int[]{2,4,1}));
 
     }
 }
