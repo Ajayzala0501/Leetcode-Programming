@@ -135,7 +135,19 @@ public class Main {
         //System.out.println(Is_Subsequence.isSubsequence("abcs","ahbgdc") );
 
         //problem:557
-        System.out.println(Reverse_Words_in_a_String_III.reverseWords("Let's take LeetCode contest"));
+        //System.out.println(Reverse_Words_in_a_String_III.reverseWords("Let's take LeetCode contest"));
+
+        //problem:771
+        //System.out.println(Jewels_and_Stones.numJewelsInStones("z","ZZ"));
+
+        //problem:412
+        //System.out.println(Fizz_Buzz.fizzBuzz(15));
+
+        //problem:500
+        //System.out.println(Keyboard_Row.findWords(new String[]{"Hello","Alaska","Dad","Peace"}));
+
+        //problem:520
+        System.out.println(Detect_Capital.detectCapitalUse("mL"));
 
     }
 }
