@@ -3,6 +3,7 @@ package org.example;
 import org.example.leetcode.arrays.Best_Time_to_Buy_and_Sell_Stock;
 import org.example.leetcode.arrays.Maximum_Sum_With_Exactly_K_Elements;
 import org.example.leetcode.arrays.Sum_Multiples;
+import org.example.leetcode.stack.Number_of_Students_Unable_to_Eat_Lunch;
 import org.example.leetcode.string.*;
 
 import java.util.ArrayList;
@@ -107,7 +108,34 @@ public class Main {
         //System.out.println(Goat_Latin.toGoatLatin("I speak Goat Latin"));
 
         //problem:121
-        System.out.println(Best_Time_to_Buy_and_Sell_Stock.maxProfit(new int[]{2,4,1}));
+        //System.out.println(Best_Time_to_Buy_and_Sell_Stock.maxProfit(new int[]{2,4,1}));
+
+        //problem:482
+        //System.out.println(License_Key_Formatting.licenseKeyFormatting("2-5g-3-J",2));
+
+        //problem:1422
+        //System.out.println(Maximum_Score_After_Splitting_a_String.maxScore("011101"));
+
+        //problem:884
+        //System.out.println(Arrays.toString(Uncommon_Words_from_Two_Sentences.uncommonFromSentences("this apple is sweet","this apple is sour")) );
+
+        //problem:20
+        //System.out.println(Valid_Parentheses.isValid("]") );
+
+        //problem:290
+        //System.out.println(Word_Pattern.wordPattern("jquery","jquery") );
+
+        //problem:859
+        //System.out.println(Buddy_Strings.buddyStrings("abab","abab") );
+
+        //problem:1700 Not Solved
+        //System.out.println(Number_of_Students_Unable_to_Eat_Lunch.countStudents(new int[]{1,1,0,0},new int[]{0,1,0,1}) );
+
+        //problem:392
+        //System.out.println(Is_Subsequence.isSubsequence("abcs","ahbgdc") );
+
+        //problem:557
+        System.out.println(Reverse_Words_in_a_String_III.reverseWords("Let's take LeetCode contest"));
 
     }
 }
