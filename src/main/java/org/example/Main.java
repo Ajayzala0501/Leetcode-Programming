@@ -176,5 +176,11 @@ public class Main {
         //problem:2287 not solved
         //System.out.println(Rearrange_Characters_to_Make_Target_String.rearrangeCharacters("abbaccaddaeea","aaaaa"));
 
+        //problem:14
+        //System.out.println(Longest_Common_Prefix.longestCommonPrefix(new String[]{"ab", "a"}));
+
+        //problem:3 - not solved
+        //System.out.println(Longest_Substring_Without_Repeating_Characters.lengthOfLongestSubstring("au"));
+
     }
 }
