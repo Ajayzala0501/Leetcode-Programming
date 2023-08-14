@@ -147,7 +147,34 @@ public class Main {
         //System.out.println(Keyboard_Row.findWords(new String[]{"Hello","Alaska","Dad","Peace"}));
 
         //problem:520
-        System.out.println(Detect_Capital.detectCapitalUse("mL"));
+        //System.out.println(Detect_Capital.detectCapitalUse("mL"));
+
+        //problem:2053
+        //System.out.println(Kth_Distinct_String_in_an_Array.kthDistinct(new String[]{"a","b","a"},3));
+
+        //problem:2027 - Not Solved
+        //System.out.println(Minimum_Moves_to_Convert_String.minimumMoves("OXOX"));
+
+        //problem:2011
+        //System.out.println(Final_Value_of_Variable_After_Performing_Operations.finalValueAfterOperations(new String[]{"X++","++X","--X","X--"}));
+
+        //problem:2129
+        //System.out.println(Capitalize_the_Title.capitalizeTitle("First leTTeR of EACH Word"));
+
+        //problem:2103
+        //System.out.println(Rings_and_Rods.countPoints("G4"));
+
+        //problem:2351
+        //System.out.println(First_Letter_to_Appear_Twice.repeatedCharacter("abcdd"));
+
+        //problem:2108
+        //System.out.println(Find_First_Palindromic_String_in_the_Array.firstPalindrome(new String[]{"abc","car","ada","racecar","cool"}));
+
+        //problem:2379
+        //System.out.println(Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.minimumRecolors("WBWBBBW",2));
+
+        //problem:2287 not solved
+        //System.out.println(Rearrange_Characters_to_Make_Target_String.rearrangeCharacters("abbaccaddaeea","aaaaa"));
 
     }
 }
