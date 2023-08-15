@@ -180,7 +180,7 @@ public class Main {
         //System.out.println(Longest_Common_Prefix.longestCommonPrefix(new String[]{"ab", "a"}));
 
         //problem:3 - not solved
-        //System.out.println(Longest_Substring_Without_Repeating_Characters.lengthOfLongestSubstring("au"));
+        System.out.println(Longest_Substring_Without_Repeating_Characters.lengthOfLongestSubstring("au"));
 
     }
 }
